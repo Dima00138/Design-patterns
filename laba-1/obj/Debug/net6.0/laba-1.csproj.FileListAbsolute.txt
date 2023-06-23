@@ -1,0 +1,15 @@
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\bin\Debug\net6.0\laba-1.exe
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\bin\Debug\net6.0\laba-1.deps.json
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\bin\Debug\net6.0\laba-1.runtimeconfig.json
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\bin\Debug\net6.0\laba-1.dll
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\bin\Debug\net6.0\laba-1.pdb
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.AssemblyInfo.cs
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.dll
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\refint\laba-1.dll
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.pdb
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\laba-1.genruntimeconfig.cache
+D:\ПОИБМС-7\Паттерны проектирования\laba-1\obj\Debug\net6.0\ref\laba-1.dll

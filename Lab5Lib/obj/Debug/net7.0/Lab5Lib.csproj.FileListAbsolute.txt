@@ -1,0 +1,24 @@
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.AssemblyReference.cache
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfoInputs.cache
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfo.cs
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.CoreCompileInputs.cache
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\bin\Debug\net7.0\Lab5Lib.deps.json
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\bin\Debug\net7.0\Lab5Lib.dll
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\bin\Debug\net7.0\Lab5Lib.pdb
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\Lab5Lib.dll
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\refint\Lab5Lib.dll
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\Lab5Lib.pdb
+C:\Users\joper\Desktop\-Flesha\software\C#\Patterns\Lab5Lib\obj\Debug\net7.0\ref\Lab5Lib.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\bin\Debug\net7.0\Lab5Lib.deps.json
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\bin\Debug\net7.0\Lab5Lib.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\bin\Debug\net7.0\Lab5Lib.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\Lab5Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\Lab5Lib.AssemblyInfo.cs
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\Lab5Lib.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\Lab5Lib.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\refint\Lab5Lib.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\Lab5Lib.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lab5Lib\obj\Debug\net7.0\ref\Lab5Lib.dll

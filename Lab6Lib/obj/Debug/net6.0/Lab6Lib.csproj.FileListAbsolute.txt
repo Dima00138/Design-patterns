@@ -1,0 +1,12 @@
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\bin\Debug\net6.0\Lab6Lib.deps.json
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\bin\Debug\net6.0\Lab6Lib.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\bin\Debug\net6.0\Lab6Lib.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\Lab6Lib.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\Lab6Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\Lab6Lib.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\Lab6Lib.AssemblyInfo.cs
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\Lab6Lib.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\Lab6Lib.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\refint\Lab6Lib.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\Lab6Lib.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lab6Lib\obj\Debug\net6.0\ref\Lab6Lib.dll

@@ -1,0 +1,12 @@
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.deps.json
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\bin\Debug\net6.0\Lec03BLibN.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.AssemblyInfo.cs
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\refint\Lec03BLibN.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\Lec03BLibN.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lec03BLibN\obj\Debug\net6.0\ref\Lec03BLibN.dll

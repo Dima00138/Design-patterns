@@ -1,0 +1,12 @@
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\Lec04LibN.csproj.AssemblyReference.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\Lec04LibN.GeneratedMSBuildEditorConfig.editorconfig
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\Lec04LibN.AssemblyInfoInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\Lec04LibN.AssemblyInfo.cs
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\Lec04LibN.csproj.CoreCompileInputs.cache
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\bin\Debug\net6.0\Lec04LibN.deps.json
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\bin\Debug\net6.0\Lec04LibN.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\bin\Debug\net6.0\Lec04LibN.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\Lec04LibN.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\refint\Lec04LibN.dll
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\Lec04LibN.pdb
+D:\ПОИБМС-7\Паттерны проектирования\Lec04LibN\obj\Debug\net6.0\ref\Lec04LibN.dll
